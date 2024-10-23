@@ -1,4 +1,4 @@
-# Exercise-04c-Enemies
+# Exercise-04d-Tilemap Coins
 
 ## Implementation
 
@@ -14,4 +14,7 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Daniyaal Hussain
+
+## Username
+Lutumna
